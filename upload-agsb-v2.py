@@ -33,9 +33,9 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "testprojectt"         # 用户名
 UUID = "76e295ec-3db5-41a0-9455-5f32221d38de"                     # UUID，留空则自动生成
-PORT = "39826"                   # Vmess端口，留空或0则自动生成
-DOMAIN = "faas.showp.ggff.net"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiMWNiNWVkNjZiNzkzZTk1YWYyZDAzM2U1OTdlOGE4M2UiLCJ0IjoiMmQ1YmQyMTEtNWNiZS00N2M5LWEzZGUtZmM0YzNkZDYxNDc0IiwicyI6IlpEWTFNelkwWkdNdE0yUTBaQzAwTm1Sa0xXRmlPRFV0WWpFNU9HVTRZMkppTW1RNCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+PORT = "39829"                   # Vmess端口，留空或0则自动生成
+DOMAIN = "fabcd.showp.ggff.net"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiMWNiNWVkNjZiNzkzZTk1YWYyZDAzM2U1OTdlOGE4M2UiLCJ0IjoiYzYzNmJlOTQtOGQxZC00M2FjLWJiYjMtOWVhYWFhZjdjOTA1IiwicyI6IlpEQTFZekEyTnprdFpXVmxaUzAwTkdOaUxXRmtObVV0T1Roa1pqaGxOVEJsT1RGaiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
