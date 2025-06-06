@@ -31,9 +31,9 @@ DEBUG_LOG = INSTALL_DIR / "python_debug.log"
 CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的域名
 
 # ====== 全局可配置参数（可直接在此处修改） ======
-USER_NAME = "kkddytd"         # 用户名
-UUID = "a91b59b6-ade4-497d-b4e9-88d184c48048"                     # UUID，留空则自动生成
-PORT = 49999                   # Vmess端口，留空或0则自动生成
+USER_NAME = "testprojectt"         # 用户名
+UUID = "76e295ec-3db5-41a0-9455-5f32221d38de"                     # UUID，留空则自动生成
+PORT = "39826"                   # Vmess端口，留空或0则自动生成
 DOMAIN = "faas.showp.ggff.net"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiMWNiNWVkNjZiNzkzZTk1YWYyZDAzM2U1OTdlOGE4M2UiLCJ0IjoiMmQ1YmQyMTEtNWNiZS00N2M5LWEzZGUtZmM0YzNkZDYxNDc0IiwicyI6IlpEWTFNelkwWkdNdE0yUTBaQzAwTm1Sa0xXRmlPRFV0WWpFNU9HVTRZMkppTW1RNCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
